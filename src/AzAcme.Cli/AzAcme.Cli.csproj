@@ -29,4 +29,10 @@
     <ProjectReference Include="..\AzAcme.Core\AzAcme.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="az-acme.sh">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

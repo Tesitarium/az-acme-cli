@@ -4,4 +4,4 @@ COPY bin/publish az-acme
 
 WORKDIR az-acme
 
-ENTRYPOINT ["dotnet", "az-acme.dll"]
+ENTRYPOINT ["az-acme.sh"]
