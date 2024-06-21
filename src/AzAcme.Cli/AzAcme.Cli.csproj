@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <AssemblyName>az-acme</AssemblyName>
+    <PublishDir>bin/publish</PublishDir>
   </PropertyGroup>
 
   <ItemGroup>
